@@ -1,7 +1,10 @@
 # Salifort-Motors
 ## HR Analytics Job Prediction
-### Introduction:  
+### Scenario:  
 Salifort makes a big investment in recruiting, training, and upskilling its employees. If Salifort could predict whether an employee will leave the company, and discover the reasons behind their departure, they could better understand the problem and develop a solution. 
+
+### Dataset:  
+https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv
 
 ### Objective: 
 I choose an approach to deploy both logistic regression and XGBoost for building the most effective model to predict employee departure.
